@@ -1,0 +1,11 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P001;lapte zuzu;Zuzu;1;l;lactate;2025-05-01;2025-05-07;8
+P010;branza telemea;Proxi;0.3;kg;lactate;2025-05-01;2025-05-07;12
+P019;piept pui;Avicola;1;kg;carne;2025-05-02;2025-05-08;10
+P024;apa plata;Aqua Carpatica;2;l;bauturi;2025-05-03;2025-05-09;5
+P036;cafea macinata;Tchibo;0.25;kg;cafea;2025-05-04;2025-05-10;15
+P039;detergent lichid;Dero;2.5;l;produse de menaj;2025-05-01;2025-05-07;20
+P042;sampon par gras;Schauma;400;ml;ingrijire personala;2025-05-02;2025-05-08;10
+P054;ciocolata neagra 70%;Poiana;100;g;gustari;2025-05-03;2025-05-09;10
+P007;oua marimea M;Din Ograda;10;buc;oua;2025-05-04;2025-05-10;6
+P027;banane;Generic;1;kg;legume si fructe;2025-05-01;2025-05-07;7

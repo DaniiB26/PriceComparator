@@ -1,0 +1,26 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency  
+P001;lapte zuzu;lactate;Zuzu;1;l;9.80;RON  
+P002;iaurt grecesc;lactate;Lidl;0.4;kg;11.60;RON  
+P005;oua marimea M;oua;Lidl;10;buc;13.10;RON  
+P008;branza telemea;lactate;Pilos;0.3;kg;12.90;RON  
+P011;paine alba;panificatie;Lidl;500;g;3.40;RON  
+P014;rosii cherry;legume si fructe;Lidl;250;g;6.90;RON  
+P017;piept pui;carne;Lidl;1;kg;28.90;RON  
+P020;spaghetti nr.5;paste fainoase;Barilla;500;g;5.70;RON  
+P021;zahar tos;alimente de baza;Lidl;1;kg;4.30;RON  
+P024;apa plata;bauturi;Aqua Carpatica;2;l;5.10;RON  
+P026;banane;legume si fructe;Lidl;1;kg;6.00;RON  
+P028;ulei floarea-soarelui;alimente de baza;Bunica;1;l;9.30;RON  
+P031;biscuiti cu unt;gustari;Deluxe;0.2;kg;7.00;RON  
+P034;cafea macinata;cafea;Davidoff;0.25;kg;22.60;RON  
+P037;detergent lichid;produse de menaj;Persil;2.5;l;49.50;RON  
+P040;sampon par gras;ingrijire personala;Head & Shoulders;400;ml;17.90;RON  
+P043;hartie igienica 3 straturi;produse de menaj;Zewa;10;role;18.80;RON  
+P046;piper negru macinat;condimente;Kotanyi;50;g;6.05;RON  
+P049;vin alb demisec;bauturi;Jidvei;0.75;l;23.30;RON  
+P052;ciocolata neagra 70%;gustari;Fin Carre;100;g;3.80;RON  
+P055;cartofi albi;legume si fructe;Lidl;1;kg;3.00;RON  
+P057;ceapa galbena;legume si fructe;Lidl;1;kg;2.80;RON  
+P064;malai extra;alimente de baza;Pambac;1;kg;5.50;RON  
+P065;file somon;peste;Lidl;0.2;kg;25.00;RON  
+P066;crema de branza;lactate;Almette;0.15;kg;8.50;RON  

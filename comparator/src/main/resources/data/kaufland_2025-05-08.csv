@@ -1,0 +1,26 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency  
+P001;lapte zuzu;lactate;Zuzu;1;l;10.00;RON  
+P003;iaurt grecesc;lactate;Olympus;0.4;kg;11.70;RON  
+P006;oua marimea M;oua;Ferma Veche;10;buc;13.60;RON  
+P009;branza telemea;lactate;Hochland;0.3;kg;13.00;RON  
+P012;paine alba;panificatie;K-Classic;500;g;3.55;RON  
+P015;rosii cherry;legume si fructe;K-Bio;250;g;7.10;RON  
+P018;piept pui;carne;Agricola;1;kg;28.00;RON  
+P020;spaghetti nr.5;paste fainoase;Barilla;500;g;5.85;RON  
+P022;zahar tos;alimente de baza;Margaritar;1;kg;4.45;RON  
+P025;apa plata;bauturi;Dorna;2;l;5.25;RON  
+P027;banane;legume si fructe;Generic;1;kg;6.25;RON  
+P029;ulei floarea-soarelui;alimente de baza;Floriol;1;l;9.60;RON  
+P032;biscuiti cu unt;gustari;Milka;0.2;kg;7.40;RON  
+P035;cafea macinata;cafea;Jacobs;0.25;kg;23.10;RON  
+P038;detergent lichid;produse de menaj;Ariel;2.5;l;50.80;RON  
+P041;sampon par gras;ingrijire personala;Elseve;400;ml;18.10;RON  
+P044;hartie igienica 3 straturi;produse de menaj;Pufina;10;role;19.30;RON  
+P047;piper negru macinat;condimente;Fuchs;50;g;6.15;RON  
+P050;vin alb demisec;bauturi;Recas;0.75;l;24.10;RON  
+P053;ciocolata neagra 70%;gustari;Heidi;100;g;4.15;RON  
+P056;cartofi albi;legume si fructe;Generic;1;kg;3.10;RON  
+P058;ceapa galbena;legume si fructe;Generic;1;kg;2.95;RON  
+P059;morcovi;legume si fructe;Generic;0.5;kg;2.40;RON  
+P061;suc portocale;bauturi;Santorini;1;l;7.60;RON  
+P063;cascaval;lactate;K-Classic;0.25;kg;14.80;RON  

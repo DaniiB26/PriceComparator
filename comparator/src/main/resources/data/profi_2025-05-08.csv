@@ -1,0 +1,26 @@
+product_id;product_name;product_category;brand;package_quantity;package_unit;price;currency  
+P001;lapte zuzu;lactate;Zuzu;1;l;13.00;RON  
+P004;iaurt grecesc;lactate;Proxi;0.4;kg;11.40;RON  
+P007;oua marimea M;oua;Din Ograda;10;buc;12.50;RON  
+P010;branza telemea;lactate;Proxi;0.3;kg;12.70;RON  
+P013;paine alba;panificatie;Proxi;500;g;3.60;RON  
+P016;rosii cherry;legume si fructe;Generic;250;g;8.70;RON  
+P019;piept pui;carne;Avicola;1;kg;26.80;RON  
+P020;spaghetti nr.5;paste fainoase;Barilla;500;g;5.90;RON  
+P023;zahar tos;alimente de baza;Proxi;1;kg;4.50;RON  
+P024;apa plata;bauturi;Aqua Carpatica;2;l;5.30;RON  
+P027;banane;legume si fructe;Generic;1;kg;6.15;RON  
+P030;ulei floarea-soarelui;alimente de baza;Spornic;1;l;9.10;RON  
+P033;biscuiti cu unt;gustari;RoStar;0.2;kg;7.20;RON  
+P036;cafea macinata;cafea;Tchibo;0.25;kg;22.00;RON  
+P039;detergent lichid;produse de menaj;Dero;2.5;l;48.90;RON  
+P042;sampon par gras;ingrijire personala;Schauma;400;ml;17.50;RON  
+P045;hartie igienica 3 straturi;produse de menaj;Motto;10;role;18.50;RON  
+P048;piper negru macinat;condimente;Kamis;50;g;6.10;RON  
+P051;vin alb demisec;bauturi;Cotnari;0.75;l;23.00;RON  
+P054;ciocolata neagra 70%;gustari;Poiana;100;g;4.00;RON  
+P059;morcovi;legume si fructe;Generic;0.5;kg;2.60;RON  
+P067;orez bob lung;alimente de baza;Deroni;1;kg;8.00;RON  
+P068;iaurt de baut;lactate;Activia;0.33;kg;5.00;RON  
+P069;pasta de dinti;ingrijire personala;Colgate;100;ml;10.50;RON  
+P070;bere blonda;bauturi;Ursus;0.5;l;3.80;RON  
