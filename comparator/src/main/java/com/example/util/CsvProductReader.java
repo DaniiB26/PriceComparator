@@ -16,6 +16,15 @@ import org.springframework.core.io.ClassPathResource;
 
 public class CsvProductReader {
 
+    /**
+     * Reads all CSV files located in the "data" folder (excluding discount files)
+     * and parses them into a list of Product objects
+     * 
+     * The name format helps to extract the store name and date for each product
+     * 
+     * @return a list of products extracted from all valid CSV files
+     * @throws IOException if the data folder or any of the files cannot be accessed or read
+     */
     public static List<Product> productReader() throws IOException {
         List<Product> products = new ArrayList<>();
 
@@ -28,7 +37,7 @@ public class CsvProductReader {
                 String store = filename.split("_")[0];
                 String datePart = filename.replace(store + "_", "").replace(".csv", "");
                 LocalDate date = LocalDate.parse(datePart);
-                
+
                 try (CSVReader reader = new CSVReaderBuilder(new FileReader(file))
                         .withCSVParser(new CSVParserBuilder().withSeparator(';').build())
                         .build()) {

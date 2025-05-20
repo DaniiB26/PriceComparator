@@ -17,6 +17,15 @@ import org.springframework.core.io.ClassPathResource;
 
 public class CsvDiscountReader {
 
+    /**
+     * Reads all CSV dicount files located in the "data" folder
+     * and parses them into a list of Discount objects
+     * 
+     * The name format helps to extract the store name and date for each product
+     * 
+     * @return a list of discounts extracted from all valid CSV files
+     * @throws IOException if the data folder or any of the files cannot be accessed or read
+     */
     public static List<Discount> discountReader() throws IOException {
         List<Discount> discounts = new ArrayList<>();
 
