@@ -32,10 +32,10 @@ public class PriceAlertController {
      * monitor.
      *
      * @param userId id of the user
-     * @param alert the price alert to be saved
+     * @param alert  the price alert to be saved
      */
     @PostMapping
-    public void addAlert(@RequestParam String userId, @RequestBody PriceAlert alert) {
+    public void addAlert(@RequestParam(name = "userId") String userId, @RequestBody PriceAlert alert) {
         alertService.saveAlert(userId, alert);
     }
 
@@ -46,7 +46,7 @@ public class PriceAlertController {
      * @return a list of products that triggered one or more alerts
      */
     @GetMapping("/triggered")
-    public List<Product> getTriggeredAlerts(@RequestParam String userId) throws IOException {
+    public List<Product> getTriggeredAlerts(@RequestParam(name = "userId") String userId) throws IOException {
         List<Product> allProducts = productService.getAllProducts();
         return alertService.getTriggeredAlerts(userId, allProducts);
     }
@@ -57,8 +57,8 @@ public class PriceAlertController {
      * @param userId id of the user
      * @return a list of all alerts
      */
-    @GetMapping()
-    public List<PriceAlert> getAllPriceAlertsForUser(@RequestParam String userId) {
+    @GetMapping
+    public List<PriceAlert> getAllPriceAlertsForUser(@RequestParam(name = "userId") String userId) {
         return alertService.getAllPriceAlertsForUser(userId);
     }
 }
